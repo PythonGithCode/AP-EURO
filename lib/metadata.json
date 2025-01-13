@@ -1,11 +1,102 @@
 {
   "vaultName": "Vaults",
-  "lastExport": 1734444873429,
+  "lastExport": 1736778643265,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon",
   "useCustomHeadContent": false,
   "useCustomFavicon": false,
   "files": [
+    "10th graade/10th great/ap euro/Class classwork/In class/Middle Ages.md",
+    "10th graade/10th great/ap euro/Untitled.md",
+    "10th graade/10th great/pricibles of eng/Joeyu Temple of Artemis at Ephesus.md",
+    "10th graade/10th great/home.md",
+    "10th graade/10th great/Welcome.md",
+    "10th graade/AP EURO/AP eupo/Chaper 13/things/95 thesis's.md",
+    "10th graade/AP EURO/AP eupo/Chaper 13/things/Albrecht Durer.md",
+    "10th graade/AP EURO/AP eupo/Chaper 13/things/anabaptists.md",
+    "10th graade/AP EURO/AP eupo/Chaper 13/things/Calvinism.md",
+    "10th graade/AP EURO/AP eupo/Chaper 13/things/catholic.md",
+    "10th graade/AP EURO/AP eupo/Chaper 13/things/catholic church.md",
+    "10th graade/AP EURO/AP eupo/Chaper 13/things/Christian religion.md",
+    "10th graade/AP EURO/AP eupo/Chaper 13/things/Christianism.md",
+    "10th graade/AP EURO/AP eupo/Chaper 13/things/Copernicus.md",
+    "10th graade/AP EURO/AP eupo/Chaper 13/things/Erasmus.md",
+    "10th graade/AP EURO/AP eupo/Chaper 13/things/europe.md",
+    "10th graade/AP EURO/AP eupo/Chaper 13/things/geneva.md",
+    "10th graade/AP EURO/AP eupo/Chaper 13/things/indulgences.md",
+    "10th graade/AP EURO/AP eupo/Chaper 13/things/Jan Van Eyck.md",
+    "10th graade/AP EURO/AP eupo/Chaper 13/things/Johannes Gutenberg.md",
+    "10th graade/AP EURO/AP eupo/Chaper 13/things/John Calvin.md",
+    "10th graade/AP EURO/AP eupo/Chaper 13/things/john knox.md",
+    "10th graade/AP EURO/AP eupo/Chaper 13/things/JOHN wyeliffe.md",
+    "10th graade/AP EURO/AP eupo/Chaper 13/things/Lutheran.md",
+    "10th graade/AP EURO/AP eupo/Chaper 13/things/Lutheran Church.md",
+    "10th graade/AP EURO/AP eupo/Chaper 13/things/Martin Luther.md",
+    "10th graade/AP EURO/AP eupo/Chaper 13/things/Newton.md",
+    "10th graade/AP EURO/AP eupo/Chaper 13/things/Norther Renaissance Art.md",
+    "10th graade/AP EURO/AP eupo/Chaper 13/things/northern Europe.md",
+    "10th graade/AP EURO/AP eupo/Chaper 13/things/northern Germany.md",
+    "10th graade/AP EURO/AP eupo/Chaper 13/things/pacifism.md",
+    "10th graade/AP EURO/AP eupo/Chaper 13/things/Pope Paul III.md",
+    "10th graade/AP EURO/AP eupo/Chaper 13/things/printing press.md",
+    "10th graade/AP EURO/AP eupo/Chaper 13/things/purgatory.md",
+    "10th graade/AP EURO/AP eupo/Chaper 13/things/reformation.md",
+    "10th graade/AP EURO/AP eupo/Chaper 13/things/Rome.md",
+    "10th graade/AP EURO/AP eupo/Chaper 13/things/The Council of Trent.md",
+    "10th graade/AP EURO/AP eupo/Chaper 13/things/Thirty Years War.md",
+    "10th graade/AP EURO/AP eupo/Chaper 13/things/willian hyndale.md",
+    "10th graade/AP EURO/AP eupo/Chaper 13/things/Writtenberg.md",
+    "10th graade/AP EURO/AP eupo/Chaper 13/Day 9 19 wueo euro.md",
+    "10th graade/AP EURO/AP eupo/Chaper 13/Day 9 23.md",
+    "10th graade/AP EURO/AP eupo/Chaper 13/day 9 24 martin luther.md",
+    "10th graade/AP EURO/AP eupo/Chaper 13/day 9 25.md",
+    "10th graade/AP EURO/AP eupo/Chaper 13/day 9 26.md",
+    "10th graade/AP EURO/AP eupo/Chaper 13/day 9 27.md",
+    "10th graade/AP EURO/AP eupo/Chaper 13/day 9 30.md",
+    "10th graade/AP EURO/AP eupo/Chaper 13/Day 10 1.md",
+    "10th graade/AP EURO/AP eupo/Chaper 13/day 10 2.md",
+    "10th graade/AP EURO/AP eupo/Chaper 13/day 10 3.md",
+    "10th graade/AP EURO/AP eupo/Chaper 13/If 9 20.md",
+    "10th graade/AP EURO/AP eupo/chaperter 12/Notes/Catholicism.md",
+    "10th graade/AP EURO/AP eupo/chaperter 12/Notes/Christian humanist.md",
+    "10th graade/AP EURO/AP eupo/chaperter 12/Notes/Greek Humanism.md",
+    "10th graade/AP EURO/AP eupo/chaperter 12/Notes/Italian humanism.md",
+    "10th graade/AP EURO/AP eupo/chaperter 12/Notes/Italy.md",
+    "10th graade/AP EURO/AP eupo/chaperter 12/Notes/monastery.md",
+    "10th graade/AP EURO/AP eupo/chaperter 12/Notes/monk.md",
+    "10th graade/AP EURO/AP eupo/chaperter 12/Notes/papal states.md",
+    "10th graade/AP EURO/AP eupo/chaperter 12/Notes/pope.md",
+    "10th graade/AP EURO/AP eupo/chaperter 12/Notes/renaissance.md",
+    "10th graade/AP EURO/AP eupo/chaperter 12/Notes/secularism.md",
+    "10th graade/AP EURO/AP eupo/chaperter 12/Notes/the classical world.md",
+    "10th graade/AP EURO/AP eupo/chaperter 12/Ap eruo 9 13 friday.md",
+    "10th graade/AP EURO/AP eupo/chaperter 12/ap eruo 9,9 money.md",
+    "10th graade/AP EURO/AP eupo/chaperter 12/day 9 12 of ap euro.md",
+    "10th graade/AP EURO/AP eupo/chaperter 12/day yester 9 5 24.md",
+    "10th graade/AP EURO/AP eupo/chaperter 12/for day sept 17.md",
+    "10th graade/AP EURO/AP eupo/chaperter 12/Idk what to write here for day 9 16.md",
+    "10th graade/AP EURO/AP eupo/chaperter 12/More stuffs.md",
+    "10th graade/AP EURO/AP eupo/chaperter 12/REnaissance Themes.md",
+    "10th graade/AP EURO/AP eupo/chaperter 12/The Italian Renaissance.md",
+    "10th graade/AP EURO/AP eupo/Chaperter 14/Day 10 15.md",
+    "10th graade/AP EURO/AP eupo/chapter 15/Englihs rulers/day 11 7 24.md",
+    "10th graade/AP EURO/AP eupo/chapter 15/Englihs rulers/day 11 12.md",
+    "10th graade/AP EURO/AP eupo/chapter 15/Englihs rulers/NOW THIS 10 14.md",
+    "10th graade/AP EURO/AP eupo/chapter 15/Absolutism and constitutionalism in western Europe day 10 18.md",
+    "10th graade/AP EURO/AP eupo/chapter 15/day 10 21 What kings start to do with power.md",
+    "10th graade/AP EURO/AP eupo/chapter 15/day 10 22.md",
+    "10th graade/AP EURO/AP eupo/chapter 15/day 10 23.md",
+    "10th graade/AP EURO/AP eupo/chapter 15/day 10 24.md",
+    "10th graade/AP EURO/AP eupo/chapter 15/day 10 25.md",
+    "10th graade/AP EURO/AP eupo/chapter 15/day 10 31 24.md",
+    "10th graade/AP EURO/AP eupo/chapter 15/peace of westphalia 10 30.md",
+    "10th graade/AP EURO/AP eupo/Chapter 16/day 11 18.md",
+    "10th graade/AP EURO/AP eupo/Chapter 16/day 11 19.md",
+    "10th graade/AP EURO/AP eupo/Chapter 16/day 11 20.md",
+    "10th graade/AP EURO/AP eupo/Chapter 16/day 11 25.md",
+    "10th graade/AP EURO/AP eupo/Chapter 16/day 12 2.md",
+    "10th graade/AP EURO/AP eupo/Chapter 16/day 12 4.md",
+    "10th graade/AP EURO/AP eupo/Chapter 16/day 12 5.md",
     "10th graade/AP EURO/AP eupo/Chapter 17/Link it up/Blood Sports.md",
     "10th graade/AP EURO/AP eupo/Chapter 17/Link it up/Community Controls.md",
     "10th graade/AP EURO/AP eupo/Chapter 17/Link it up/Consumer Society.md",
@@ -28,6 +119,51 @@
     "10th graade/AP EURO/AP eupo/Chapter 17/Textnotes/day 12 13.md",
     "10th graade/AP EURO/AP eupo/Chapter 17/Textnotes/Day 12 16.md",
     "10th graade/AP EURO/AP eupo/Chapter 17/Main text notes.md",
+    "10th graade/AP EURO/AP eupo/chapter 19/day 1 2.md",
+    "10th graade/AP EURO/AP eupo/chapter 19/day 1 3.md",
+    "10th graade/AP EURO/AP eupo/chapter 19/day 1 6.md",
+    "10th graade/AP EURO/AP eupo/chapter 19/day 1 7.md",
+    "10th graade/AP EURO/AP eupo/chapter 19/day 1 8.md",
+    "10th graade/AP EURO/AP eupo/chapter 19/day 1 9.md",
+    "10th graade/AP EURO/AP eupo/chapter 19/day 12 18.md",
+    "10th graade/AP EURO/AP eupo/chapter 19/day 12 19.md",
+    "10th graade/AP EURO/AP eupo/chapter 19/Main notes For submission Chapter 19th.md",
+    "10th graade/AP EURO/AP eupo/Vocab/Absenteeism.md",
+    "10th graade/AP EURO/AP eupo/Vocab/Feudalism.md",
+    "10th graade/AP EURO/AP eupo/Vocab/Moral Corruption.md",
+    "10th graade/AP EURO/AP eupo/Vocab/Nepotism.md",
+    "10th graade/AP EURO/AP eupo/Vocab/Pluralism.md",
+    "10th graade/AP EURO/AP eupo/Vocab/Simony.md",
+    "10th graade/AP EURO/AP eupo/home.md",
+    "10th graade/AP EURO/home.md",
+    "10th graade/AP EURO/Printing money paper.md",
+    "10th graade/Codeing/Zigzag/How it works.md",
+    "10th graade/Deabete/practice round/Copy of Copy of V6 NEG Better template 1.canvas",
+    "10th graade/Deabete/practice round/Copy of Copy of V6 NEG Better template 1 1.canvas",
+    "10th graade/Deabete/practice round/Copy of Copy of V6 NEG Better template 1 1 1.canvas",
+    "10th graade/Deabete/practice round/Copy of Copy of V6 NEG Better template 1 1 1 1.canvas",
+    "10th graade/Deabete/practice round/V7 NEG Better template 1 1 1 1.canvas",
+    "10th graade/Deabete/Neg.md",
+    "10th graade/Deabete/Reading Briefs.md",
+    "10th graade/Deabete/Trickle up over trickle down when taxed.md",
+    "10th graade/Deabete/Untitled.md",
+    "10th graade/Deabete/Untitled 1.md",
+    "10th graade/English/Essays/A Peek into Creon’s Cursed State of Mind.md",
+    "10th graade/English/enlgish animal farm.md",
+    "10th graade/English/research.md",
+    "10th graade/English/Writing boot camp stuffs.md",
+    "10th graade/german/Bell work january 6th.md",
+    "10th graade/german/cothing theme gimkit.md",
+    "10th graade/german/GErman book thing.md",
+    "10th graade/Science/day 10 15  24 five facts about the movie.md",
+    "10th graade/Science/fashcards for chemical nomenclature.md",
+    "10th graade/Science/Science.md",
+    "10th graade/Words/New lexicon.md",
+    "10th graade/Words/randoms.md",
+    "10th graade/Copy of Copy of V6 NEG Better template 1 1.canvas",
+    "10th graade/home.md",
+    "10th graade/things stuff.md",
+    "10th graade/V7 NEG Better template 1 1 1.canvas",
     "lib/scripts/graph-wasm.wasm",
     "lib/fonts/94f2f163d4b698242fef.otf",
     "lib/fonts/72505e6a122c6acd5471.woff2",
@@ -88,304 +224,1120 @@
     "lib/styles/main-styles.css"
   ],
   "fileInfo": {
-    "10th graade/AP EURO/AP eupo/Chapter 17/Link it up/Cottage Industry.md": {
-      "modifiedTime": 1734387855966,
-      "sourceSize": 153,
-      "exportedPath": "10th-graade/ap-euro/ap-eupo/chapter-17/link-it-up/cottage-industry.html",
+    "10th graade/10th great/ap euro/Class classwork/In class/Middle Ages.md": {
+      "modifiedTime": 1736778643265,
+      "sourceSize": 92,
+      "exportedPath": "10th-graade/10th-great/ap-euro/class-classwork/in-class/middle-ages.html",
       "dependencies": []
     },
-    "10th graade/AP EURO/AP eupo/Chapter 17/Link it up/Crop Rotation.md": {
-      "modifiedTime": 1734387855966,
-      "sourceSize": 219,
-      "exportedPath": "10th-graade/ap-euro/ap-eupo/chapter-17/link-it-up/crop-rotation.html",
+    "10th graade/10th great/ap euro/Untitled.md": {
+      "modifiedTime": 1736778643265,
+      "sourceSize": 0,
+      "exportedPath": "10th-graade/10th-great/ap-euro/untitled.html",
       "dependencies": []
     },
-    "10th graade/AP EURO/AP eupo/Chapter 17/Link it up/ENCLOSURE MOVEMENT.md": {
-      "modifiedTime": 1734387855966,
-      "sourceSize": 431,
-      "exportedPath": "10th-graade/ap-euro/ap-eupo/chapter-17/link-it-up/enclosure-movement.html",
+    "10th graade/10th great/pricibles of eng/Joeyu Temple of Artemis at Ephesus.md": {
+      "modifiedTime": 1736778643265,
+      "sourceSize": 583,
+      "exportedPath": "10th-graade/10th-great/pricibles-of-eng/joeyu-temple-of-artemis-at-ephesus.html",
       "dependencies": []
     },
-    "10th graade/AP EURO/AP eupo/Chapter 17/Link it up/Open field system.md": {
-      "modifiedTime": 1734387855966,
-      "sourceSize": 1020,
-      "exportedPath": "10th-graade/ap-euro/ap-eupo/chapter-17/link-it-up/open-field-system.html",
+    "10th graade/10th great/home.md": {
+      "modifiedTime": 1736778643265,
+      "sourceSize": 65,
+      "exportedPath": "10th-graade/10th-great/home.html",
       "dependencies": []
     },
-    "10th graade/AP EURO/AP eupo/Chapter 17/Textnotes/day 12 9.md": {
-      "modifiedTime": 1734387855966,
-      "sourceSize": 1786,
-      "exportedPath": "10th-graade/ap-euro/ap-eupo/chapter-17/textnotes/day-12-9.html",
+    "10th graade/10th great/Welcome.md": {
+      "modifiedTime": 1736778643265,
+      "sourceSize": 203,
+      "exportedPath": "10th-graade/10th-great/welcome.html",
       "dependencies": []
     },
-    "10th graade/AP EURO/AP eupo/Chapter 17/Textnotes/day 12 10.md": {
-      "modifiedTime": 1734387855966,
-      "sourceSize": 3199,
-      "exportedPath": "10th-graade/ap-euro/ap-eupo/chapter-17/textnotes/day-12-10.html",
+    "10th graade/AP EURO/AP eupo/Chaper 13/things/95 thesis's.md": {
+      "modifiedTime": 1736778643265,
+      "sourceSize": 1331,
+      "exportedPath": "10th-graade/ap-euro/ap-eupo/chaper-13/things/95-thesis's.html",
       "dependencies": []
     },
-    "10th graade/AP EURO/AP eupo/Chapter 17/Textnotes/day 12 11.md": {
-      "modifiedTime": 1734387855966,
-      "sourceSize": 2325,
-      "exportedPath": "10th-graade/ap-euro/ap-eupo/chapter-17/textnotes/day-12-11.html",
+    "10th graade/AP EURO/AP eupo/Chaper 13/things/Albrecht Durer.md": {
+      "modifiedTime": 1736778643265,
+      "sourceSize": 126,
+      "exportedPath": "10th-graade/ap-euro/ap-eupo/chaper-13/things/albrecht-durer.html",
       "dependencies": []
     },
-    "10th graade/AP EURO/AP eupo/Chapter 17/Textnotes/day 12 12.md": {
-      "modifiedTime": 1734387855966,
-      "sourceSize": 4708,
-      "exportedPath": "10th-graade/ap-euro/ap-eupo/chapter-17/textnotes/day-12-12.html",
+    "10th graade/AP EURO/AP eupo/Chaper 13/things/anabaptists.md": {
+      "modifiedTime": 1736778643265,
+      "sourceSize": 297,
+      "exportedPath": "10th-graade/ap-euro/ap-eupo/chaper-13/things/anabaptists.html",
       "dependencies": []
     },
-    "10th graade/AP EURO/AP eupo/Chapter 17/Textnotes/day 12 12 Ap euro bit by bit number 23.md": {
-      "modifiedTime": 1734387855966,
-      "sourceSize": 1793,
-      "exportedPath": "10th-graade/ap-euro/ap-eupo/chapter-17/textnotes/day-12-12-ap-euro-bit-by-bit-number-23.html",
+    "10th graade/AP EURO/AP eupo/Chaper 13/things/Calvinism.md": {
+      "modifiedTime": 1736778643265,
+      "sourceSize": 342,
+      "exportedPath": "10th-graade/ap-euro/ap-eupo/chaper-13/things/calvinism.html",
       "dependencies": []
     },
-    "10th graade/AP EURO/AP eupo/Chapter 17/Textnotes/day 12 12 crash course number 8.md": {
-      "modifiedTime": 1734387855966,
-      "sourceSize": 1609,
-      "exportedPath": "10th-graade/ap-euro/ap-eupo/chapter-17/textnotes/day-12-12-crash-course-number-8.html",
+    "10th graade/AP EURO/AP eupo/Chaper 13/things/catholic.md": {
+      "modifiedTime": 1736778643265,
+      "sourceSize": 12,
+      "exportedPath": "10th-graade/ap-euro/ap-eupo/chaper-13/things/catholic.html",
       "dependencies": []
     },
-    "10th graade/AP EURO/AP eupo/Chapter 17/Textnotes/day 12 13.md": {
-      "modifiedTime": 1734387855966,
-      "sourceSize": 625,
-      "exportedPath": "10th-graade/ap-euro/ap-eupo/chapter-17/textnotes/day-12-13.html",
+    "10th graade/AP EURO/AP eupo/Chaper 13/things/catholic church.md": {
+      "modifiedTime": 1736778643265,
+      "sourceSize": 231,
+      "exportedPath": "10th-graade/ap-euro/ap-eupo/chaper-13/things/catholic-church.html",
       "dependencies": []
     },
-    "10th graade/AP EURO/AP eupo/Chapter 17/Textnotes/Day 12 16.md": {
-      "modifiedTime": 1734387855966,
-      "sourceSize": 876,
-      "exportedPath": "10th-graade/ap-euro/ap-eupo/chapter-17/textnotes/day-12-16.html",
+    "10th graade/AP EURO/AP eupo/Chaper 13/things/Christian religion.md": {
+      "modifiedTime": 1736778643265,
+      "sourceSize": 11,
+      "exportedPath": "10th-graade/ap-euro/ap-eupo/chaper-13/things/christian-religion.html",
       "dependencies": []
     },
-    "10th graade/AP EURO/AP eupo/Chapter 17/Main text notes.md": {
-      "modifiedTime": 1734444873429,
-      "sourceSize": 13532,
-      "exportedPath": "10th-graade/ap-euro/ap-eupo/chapter-17/main-text-notes.html",
+    "10th graade/AP EURO/AP eupo/Chaper 13/things/Christianism.md": {
+      "modifiedTime": 1736778643265,
+      "sourceSize": 60,
+      "exportedPath": "10th-graade/ap-euro/ap-eupo/chaper-13/things/christianism.html",
       "dependencies": []
     },
-    "lib/scripts/graph-wasm.wasm": {
-      "modifiedTime": 1734444873429,
-      "sourceSize": 23377,
-      "exportedPath": "lib/scripts/graph-wasm.wasm",
+    "10th graade/AP EURO/AP eupo/Chaper 13/things/Copernicus.md": {
+      "modifiedTime": 1736778643265,
+      "sourceSize": 10,
+      "exportedPath": "10th-graade/ap-euro/ap-eupo/chaper-13/things/copernicus.html",
       "dependencies": []
     },
-    "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1734444873429,
-      "sourceSize": 66800,
-      "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
+    "10th graade/AP EURO/AP eupo/Chaper 13/things/Erasmus.md": {
+      "modifiedTime": 1736778643265,
+      "sourceSize": 9,
+      "exportedPath": "10th-graade/ap-euro/ap-eupo/chaper-13/things/erasmus.html",
       "dependencies": []
     },
-    "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1734444873429,
-      "sourceSize": 104232,
-      "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
+    "10th graade/AP EURO/AP eupo/Chaper 13/things/europe.md": {
+      "modifiedTime": 1736778643265,
+      "sourceSize": 0,
+      "exportedPath": "10th-graade/ap-euro/ap-eupo/chaper-13/things/europe.html",
       "dependencies": []
     },
-    "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1734444873429,
-      "sourceSize": 104332,
-      "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
+    "10th graade/AP EURO/AP eupo/Chaper 13/things/geneva.md": {
+      "modifiedTime": 1736778643265,
+      "sourceSize": 7,
+      "exportedPath": "10th-graade/ap-euro/ap-eupo/chaper-13/things/geneva.html",
       "dependencies": []
     },
-    "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1734444873429,
-      "sourceSize": 98868,
-      "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "10th graade/AP EURO/AP eupo/Chaper 13/things/indulgences.md": {
+      "modifiedTime": 1736778643265,
+      "sourceSize": 73,
+      "exportedPath": "10th-graade/ap-euro/ap-eupo/chaper-13/things/indulgences.html",
       "dependencies": []
     },
-    "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1734444873429,
-      "sourceSize": 106876,
-      "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "10th graade/AP EURO/AP eupo/Chaper 13/things/Jan Van Eyck.md": {
+      "modifiedTime": 1736778643265,
+      "sourceSize": 295,
+      "exportedPath": "10th-graade/ap-euro/ap-eupo/chaper-13/things/jan-van-eyck.html",
       "dependencies": []
     },
-    "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1734444873429,
-      "sourceSize": 105804,
-      "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "10th graade/AP EURO/AP eupo/Chaper 13/things/Johannes Gutenberg.md": {
+      "modifiedTime": 1736778643265,
+      "sourceSize": 1379,
+      "exportedPath": "10th-graade/ap-euro/ap-eupo/chaper-13/things/johannes-gutenberg.html",
       "dependencies": []
     },
-    "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1734444873429,
-      "sourceSize": 106108,
-      "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "10th graade/AP EURO/AP eupo/Chaper 13/things/John Calvin.md": {
+      "modifiedTime": 1736778643265,
+      "sourceSize": 656,
+      "exportedPath": "10th-graade/ap-euro/ap-eupo/chaper-13/things/john-calvin.html",
       "dependencies": []
     },
-    "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1734444873429,
-      "sourceSize": 111708,
-      "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "10th graade/AP EURO/AP eupo/Chaper 13/things/john knox.md": {
+      "modifiedTime": 1736778643265,
+      "sourceSize": 9,
+      "exportedPath": "10th-graade/ap-euro/ap-eupo/chaper-13/things/john-knox.html",
       "dependencies": []
     },
-    "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1734444873429,
-      "sourceSize": 192740,
-      "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "10th graade/AP EURO/AP eupo/Chaper 13/things/JOHN wyeliffe.md": {
+      "modifiedTime": 1736778643265,
+      "sourceSize": 10,
+      "exportedPath": "10th-graade/ap-euro/ap-eupo/chaper-13/things/john-wyeliffe.html",
       "dependencies": []
     },
-    "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1734444873429,
-      "sourceSize": 161376,
-      "exportedPath": "lib/fonts/454577c22304619db035.ttf",
+    "10th graade/AP EURO/AP eupo/Chaper 13/things/Lutheran.md": {
+      "modifiedTime": 1736778643265,
+      "sourceSize": 256,
+      "exportedPath": "10th-graade/ap-euro/ap-eupo/chaper-13/things/lutheran.html",
       "dependencies": []
     },
-    "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1734444873429,
-      "sourceSize": 191568,
-      "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "10th graade/AP EURO/AP eupo/Chaper 13/things/Lutheran Church.md": {
+      "modifiedTime": 1736778643265,
+      "sourceSize": 40,
+      "exportedPath": "10th-graade/ap-euro/ap-eupo/chaper-13/things/lutheran-church.html",
       "dependencies": []
     },
-    "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1734444873429,
-      "sourceSize": 155288,
-      "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
+    "10th graade/AP EURO/AP eupo/Chaper 13/things/Martin Luther.md": {
+      "modifiedTime": 1736778643265,
+      "sourceSize": 1677,
+      "exportedPath": "10th-graade/ap-euro/ap-eupo/chaper-13/things/martin-luther.html",
       "dependencies": []
     },
-    "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1734444873429,
-      "sourceSize": 7876,
-      "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "10th graade/AP EURO/AP eupo/Chaper 13/things/Newton.md": {
+      "modifiedTime": 1736778643265,
+      "sourceSize": 0,
+      "exportedPath": "10th-graade/ap-euro/ap-eupo/chaper-13/things/newton.html",
       "dependencies": []
     },
-    "lib/media/874d8b8e340f75575caa.svg": {
-      "modifiedTime": 1734444873429,
-      "sourceSize": 317,
-      "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
+    "10th graade/AP EURO/AP eupo/Chaper 13/things/Norther Renaissance Art.md": {
+      "modifiedTime": 1736778643265,
+      "sourceSize": 630,
+      "exportedPath": "10th-graade/ap-euro/ap-eupo/chaper-13/things/norther-renaissance-art.html",
       "dependencies": []
     },
-    "lib/html/file-tree.html": {
-      "modifiedTime": 1734444873429,
-      "sourceSize": 12677,
-      "exportedPath": "lib/html/file-tree.html",
+    "10th graade/AP EURO/AP eupo/Chaper 13/things/northern Europe.md": {
+      "modifiedTime": 1736778643265,
+      "sourceSize": 18,
+      "exportedPath": "10th-graade/ap-euro/ap-eupo/chaper-13/things/northern-europe.html",
       "dependencies": []
     },
-    "lib/scripts/webpage.js": {
-      "modifiedTime": 1734444873429,
-      "sourceSize": 47290,
-      "exportedPath": "lib/scripts/webpage.js",
+    "10th graade/AP EURO/AP eupo/Chaper 13/things/northern Germany.md": {
+      "modifiedTime": 1736778643265,
+      "sourceSize": 0,
+      "exportedPath": "10th-graade/ap-euro/ap-eupo/chaper-13/things/northern-germany.html",
       "dependencies": []
     },
-    "lib/scripts/graph-view.js": {
-      "modifiedTime": 1734444873429,
-      "sourceSize": 15519,
-      "exportedPath": "lib/scripts/graph-view.js",
+    "10th graade/AP EURO/AP eupo/Chaper 13/things/pacifism.md": {
+      "modifiedTime": 1736778643265,
+      "sourceSize": 38,
+      "exportedPath": "10th-graade/ap-euro/ap-eupo/chaper-13/things/pacifism.html",
       "dependencies": []
     },
-    "lib/scripts/graph-wasm.js": {
-      "modifiedTime": 1734444873429,
-      "sourceSize": 14021,
-      "exportedPath": "lib/scripts/graph-wasm.js",
+    "10th graade/AP EURO/AP eupo/Chaper 13/things/Pope Paul III.md": {
+      "modifiedTime": 1736778643265,
+      "sourceSize": 7,
+      "exportedPath": "10th-graade/ap-euro/ap-eupo/chaper-13/things/pope-paul-iii.html",
       "dependencies": []
     },
-    "lib/scripts/graph-render-worker.js": {
-      "modifiedTime": 1734444873429,
-      "sourceSize": 5179,
-      "exportedPath": "lib/scripts/graph-render-worker.js",
+    "10th graade/AP EURO/AP eupo/Chaper 13/things/printing press.md": {
+      "modifiedTime": 1736778643265,
+      "sourceSize": 1398,
+      "exportedPath": "10th-graade/ap-euro/ap-eupo/chaper-13/things/printing-press.html",
       "dependencies": []
     },
-    "lib/scripts/tinycolor.js": {
-      "modifiedTime": 1734444873429,
-      "sourceSize": 29832,
-      "exportedPath": "lib/scripts/tinycolor.js",
+    "10th graade/AP EURO/AP eupo/Chaper 13/things/purgatory.md": {
+      "modifiedTime": 1736778643265,
+      "sourceSize": 90,
+      "exportedPath": "10th-graade/ap-euro/ap-eupo/chaper-13/things/purgatory.html",
       "dependencies": []
     },
-    "lib/scripts/pixi.js": {
-      "modifiedTime": 1734444873429,
-      "sourceSize": 449509,
-      "exportedPath": "lib/scripts/pixi.js",
+    "10th graade/AP EURO/AP eupo/Chaper 13/things/reformation.md": {
+      "modifiedTime": 1736778643265,
+      "sourceSize": 0,
+      "exportedPath": "10th-graade/ap-euro/ap-eupo/chaper-13/things/reformation.html",
       "dependencies": []
     },
-    "lib/scripts/minisearch.js": {
-      "modifiedTime": 1734444873429,
-      "sourceSize": 29422,
-      "exportedPath": "lib/scripts/minisearch.js",
+    "10th graade/AP EURO/AP eupo/Chaper 13/things/Rome.md": {
+      "modifiedTime": 1736778643265,
+      "sourceSize": 34,
+      "exportedPath": "10th-graade/ap-euro/ap-eupo/chaper-13/things/rome.html",
       "dependencies": []
     },
-    "lib/media/favicon.png": {
-      "modifiedTime": 1734444873429,
-      "sourceSize": 1105,
-      "exportedPath": "lib/media/favicon.png",
+    "10th graade/AP EURO/AP eupo/Chaper 13/things/The Council of Trent.md": {
+      "modifiedTime": 1736778643265,
+      "sourceSize": 664,
+      "exportedPath": "10th-graade/ap-euro/ap-eupo/chaper-13/things/the-council-of-trent.html",
       "dependencies": []
     },
-    "lib/scripts/graph-data.js": {
-      "modifiedTime": 1734444873429,
-      "sourceSize": 2679,
-      "exportedPath": "lib/scripts/graph-data.js",
+    "10th graade/AP EURO/AP eupo/Chaper 13/things/Thirty Years War.md": {
+      "modifiedTime": 1736778643265,
+      "sourceSize": 49,
+      "exportedPath": "10th-graade/ap-euro/ap-eupo/chaper-13/things/thirty-years-war.html",
       "dependencies": []
     },
-    "lib/styles/obsidian.css": {
-      "modifiedTime": 1734444873429,
-      "sourceSize": 131118,
-      "exportedPath": "lib/styles/obsidian.css",
+    "10th graade/AP EURO/AP eupo/Chaper 13/things/willian hyndale.md": {
+      "modifiedTime": 1736778643265,
+      "sourceSize": 9,
+      "exportedPath": "10th-graade/ap-euro/ap-eupo/chaper-13/things/willian-hyndale.html",
       "dependencies": []
     },
-    "lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1734444873429,
-      "sourceSize": 236,
-      "exportedPath": "lib/styles/global-variable-styles.css",
+    "10th graade/AP EURO/AP eupo/Chaper 13/things/Writtenberg.md": {
+      "modifiedTime": 1736778643265,
+      "sourceSize": 7,
+      "exportedPath": "10th-graade/ap-euro/ap-eupo/chaper-13/things/writtenberg.html",
       "dependencies": []
     },
-    "lib/styles/main-styles.css": {
-      "modifiedTime": 1734444873429,
-      "sourceSize": 23130,
-      "exportedPath": "lib/styles/main-styles.css",
+    "10th graade/AP EURO/AP eupo/Chaper 13/Day 9 19 wueo euro.md": {
+      "modifiedTime": 1736778643265,
+      "sourceSize": 164,
+      "exportedPath": "10th-graade/ap-euro/ap-eupo/chaper-13/day-9-19-wueo-euro.html",
+      "dependencies": []
+    },
+    "10th graade/AP EURO/AP eupo/Chaper 13/Day 9 23.md": {
+      "modifiedTime": 1736778643265,
+      "sourceSize": 4114,
+      "exportedPath": "10th-graade/ap-euro/ap-eupo/chaper-13/day-9-23.html",
+      "dependencies": []
+    },
+    "10th graade/AP EURO/AP eupo/Chaper 13/day 9 24 martin luther.md": {
+      "modifiedTime": 1736778643265,
+      "sourceSize": 3009,
+      "exportedPath": "10th-graade/ap-euro/ap-eupo/chaper-13/day-9-24-martin-luther.html",
+      "dependencies": []
+    },
+    "10th graade/AP EURO/AP eupo/Chaper 13/day 9 25.md": {
+      "modifiedTime": 1736778643265,
+      "sourceSize": 1221,
+      "exportedPath": "10th-graade/ap-euro/ap-eupo/chaper-13/day-9-25.html",
+      "dependencies": []
+    },
+    "10th graade/AP EURO/AP eupo/Chaper 13/day 9 26.md": {
+      "modifiedTime": 1736778643265,
+      "sourceSize": 1643,
+      "exportedPath": "10th-graade/ap-euro/ap-eupo/chaper-13/day-9-26.html",
+      "dependencies": []
+    },
+    "10th graade/AP EURO/AP eupo/Chaper 13/day 9 27.md": {
+      "modifiedTime": 1736778643265,
+      "sourceSize": 33,
+      "exportedPath": "10th-graade/ap-euro/ap-eupo/chaper-13/day-9-27.html",
+      "dependencies": []
+    },
+    "10th graade/AP EURO/AP eupo/Chaper 13/day 9 30.md": {
+      "modifiedTime": 1736778643265,
+      "sourceSize": 3029,
+      "exportedPath": "10th-graade/ap-euro/ap-eupo/chaper-13/day-9-30.html",
+      "dependencies": []
+    },
+    "10th graade/AP EURO/AP eupo/Chaper 13/Day 10 1.md": {
+      "modifiedTime": 1736778643265,
+      "sourceSize": 3669,
+      "exportedPath": "10th-graade/ap-euro/ap-eupo/chaper-13/day-10-1.html",
+      "dependencies": []
+    },
+    "10th graade/AP EURO/AP eupo/Chaper 13/day 10 2.md": {
+      "modifiedTime": 1736778643265,
+      "sourceSize": 6603,
+      "exportedPath": "10th-graade/ap-euro/ap-eupo/chaper-13/day-10-2.html",
+      "dependencies": []
+    },
+    "10th graade/AP EURO/AP eupo/Chaper 13/day 10 3.md": {
+      "modifiedTime": 1736778643265,
+      "sourceSize": 1841,
+      "exportedPath": "10th-graade/ap-euro/ap-eupo/chaper-13/day-10-3.html",
+      "dependencies": []
+    },
+    "10th graade/AP EURO/AP eupo/Chaper 13/If 9 20.md": {
+      "modifiedTime": 1736778643265,
+      "sourceSize": 2327,
+      "exportedPath": "10th-graade/ap-euro/ap-eupo/chaper-13/if-9-20.html",
+      "dependencies": []
+    },
+    "10th graade/AP EURO/AP eupo/chaperter 12/Notes/Catholicism.md": {
+      "modifiedTime": 1736778643265,
+      "sourceSize": 11,
+      "exportedPath": "10th-graade/ap-euro/ap-eupo/chaperter-12/notes/catholicism.html",
+      "dependencies": []
+    },
+    "10th graade/AP EURO/AP eupo/chaperter 12/Notes/Christian humanist.md": {
+      "modifiedTime": 1736778643265,
+      "sourceSize": 200,
+      "exportedPath": "10th-graade/ap-euro/ap-eupo/chaperter-12/notes/christian-humanist.html",
+      "dependencies": []
+    },
+    "10th graade/AP EURO/AP eupo/chaperter 12/Notes/Greek Humanism.md": {
+      "modifiedTime": 1736778643265,
+      "sourceSize": 0,
+      "exportedPath": "10th-graade/ap-euro/ap-eupo/chaperter-12/notes/greek-humanism.html",
+      "dependencies": []
+    },
+    "10th graade/AP EURO/AP eupo/chaperter 12/Notes/Italian humanism.md": {
+      "modifiedTime": 1736778643265,
+      "sourceSize": 798,
+      "exportedPath": "10th-graade/ap-euro/ap-eupo/chaperter-12/notes/italian-humanism.html",
+      "dependencies": []
+    },
+    "10th graade/AP EURO/AP eupo/chaperter 12/Notes/Italy.md": {
+      "modifiedTime": 1736778643265,
+      "sourceSize": 21,
+      "exportedPath": "10th-graade/ap-euro/ap-eupo/chaperter-12/notes/italy.html",
+      "dependencies": []
+    },
+    "10th graade/AP EURO/AP eupo/chaperter 12/Notes/monastery.md": {
+      "modifiedTime": 1736778643265,
+      "sourceSize": 84,
+      "exportedPath": "10th-graade/ap-euro/ap-eupo/chaperter-12/notes/monastery.html",
+      "dependencies": []
+    },
+    "10th graade/AP EURO/AP eupo/chaperter 12/Notes/monk.md": {
+      "modifiedTime": 1736778643265,
+      "sourceSize": 68,
+      "exportedPath": "10th-graade/ap-euro/ap-eupo/chaperter-12/notes/monk.html",
+      "dependencies": []
+    },
+    "10th graade/AP EURO/AP eupo/chaperter 12/Notes/papal states.md": {
+      "modifiedTime": 1736778643265,
+      "sourceSize": 34,
+      "exportedPath": "10th-graade/ap-euro/ap-eupo/chaperter-12/notes/papal-states.html",
+      "dependencies": []
+    },
+    "10th graade/AP EURO/AP eupo/chaperter 12/Notes/pope.md": {
+      "modifiedTime": 1736778643265,
+      "sourceSize": 85,
+      "exportedPath": "10th-graade/ap-euro/ap-eupo/chaperter-12/notes/pope.html",
+      "dependencies": []
+    },
+    "10th graade/AP EURO/AP eupo/chaperter 12/Notes/renaissance.md": {
+      "modifiedTime": 1736778643265,
+      "sourceSize": 57,
+      "exportedPath": "10th-graade/ap-euro/ap-eupo/chaperter-12/notes/renaissance.html",
+      "dependencies": []
+    },
+    "10th graade/AP EURO/AP eupo/chaperter 12/Notes/secularism.md": {
+      "modifiedTime": 1736778643265,
+      "sourceSize": 906,
+      "exportedPath": "10th-graade/ap-euro/ap-eupo/chaperter-12/notes/secularism.html",
+      "dependencies": []
+    },
+    "10th graade/AP EURO/AP eupo/chaperter 12/Notes/the classical world.md": {
+      "modifiedTime": 1736778643265,
+      "sourceSize": 419,
+      "exportedPath": "10th-graade/ap-euro/ap-eupo/chaperter-12/notes/the-classical-world.html",
+      "dependencies": []
+    },
+    "10th graade/AP EURO/AP eupo/chaperter 12/Ap eruo 9 13 friday.md": {
+      "modifiedTime": 1736778643265,
+      "sourceSize": 2775,
+      "exportedPath": "10th-graade/ap-euro/ap-eupo/chaperter-12/ap-eruo-9-13-friday.html",
+      "dependencies": []
+    },
+    "10th graade/AP EURO/AP eupo/chaperter 12/ap eruo 9,9 money.md": {
+      "modifiedTime": 1736778643265,
+      "sourceSize": 2169,
+      "exportedPath": "10th-graade/ap-euro/ap-eupo/chaperter-12/ap-eruo-9,9-money.html",
+      "dependencies": []
+    },
+    "10th graade/AP EURO/AP eupo/chaperter 12/day 9 12 of ap euro.md": {
+      "modifiedTime": 1736778643265,
+      "sourceSize": 1923,
+      "exportedPath": "10th-graade/ap-euro/ap-eupo/chaperter-12/day-9-12-of-ap-euro.html",
+      "dependencies": []
+    },
+    "10th graade/AP EURO/AP eupo/chaperter 12/day yester 9 5 24.md": {
+      "modifiedTime": 1736778643265,
+      "sourceSize": 581,
+      "exportedPath": "10th-graade/ap-euro/ap-eupo/chaperter-12/day-yester-9-5-24.html",
+      "dependencies": []
+    },
+    "10th graade/AP EURO/AP eupo/chaperter 12/for day sept 17.md": {
+      "modifiedTime": 1736778643265,
+      "sourceSize": 615,
+      "exportedPath": "10th-graade/ap-euro/ap-eupo/chaperter-12/for-day-sept-17.html",
+      "dependencies": []
+    },
+    "10th graade/AP EURO/AP eupo/chaperter 12/Idk what to write here for day 9 16.md": {
+      "modifiedTime": 1736778643265,
+      "sourceSize": 4814,
+      "exportedPath": "10th-graade/ap-euro/ap-eupo/chaperter-12/idk-what-to-write-here-for-day-9-16.html",
+      "dependencies": []
+    },
+    "10th graade/AP EURO/AP eupo/chaperter 12/More stuffs.md": {
+      "modifiedTime": 1736778643265,
+      "sourceSize": 383,
+      "exportedPath": "10th-graade/ap-euro/ap-eupo/chaperter-12/more-stuffs.html",
+      "dependencies": []
+    },
+    "10th graade/AP EURO/AP eupo/chaperter 12/REnaissance Themes.md": {
+      "modifiedTime": 1736778643265,
+      "sourceSize": 2088,
+      "exportedPath": "10th-graade/ap-euro/ap-eupo/chaperter-12/renaissance-themes.html",
+      "dependencies": []
+    },
+    "10th graade/AP EURO/AP eupo/chaperter 12/The Italian Renaissance.md": {
+      "modifiedTime": 1736778643265,
+      "sourceSize": 3263,
+      "exportedPath": "10th-graade/ap-euro/ap-eupo/chaperter-12/the-italian-renaissance.html",
+      "dependencies": []
+    },
+    "10th graade/AP EURO/AP eupo/Chaperter 14/Day 10 15.md": {
+      "modifiedTime": 1736778643265,
+      "sourceSize": 1523,
+      "exportedPath": "10th-graade/ap-euro/ap-eupo/chaperter-14/day-10-15.html",
+      "dependencies": []
+    },
+    "10th graade/AP EURO/AP eupo/chapter 15/Englihs rulers/day 11 7 24.md": {
+      "modifiedTime": 1736778643265,
+      "sourceSize": 443,
+      "exportedPath": "10th-graade/ap-euro/ap-eupo/chapter-15/englihs-rulers/day-11-7-24.html",
+      "dependencies": []
+    },
+    "10th graade/AP EURO/AP eupo/chapter 15/Englihs rulers/day 11 12.md": {
+      "modifiedTime": 1736778643265,
+      "sourceSize": 1779,
+      "exportedPath": "10th-graade/ap-euro/ap-eupo/chapter-15/englihs-rulers/day-11-12.html",
+      "dependencies": []
+    },
+    "10th graade/AP EURO/AP eupo/chapter 15/Englihs rulers/NOW THIS 10 14.md": {
+      "modifiedTime": 1736778643265,
+      "sourceSize": 3506,
+      "exportedPath": "10th-graade/ap-euro/ap-eupo/chapter-15/englihs-rulers/now-this-10-14.html",
+      "dependencies": []
+    },
+    "10th graade/AP EURO/AP eupo/chapter 15/Absolutism and constitutionalism in western Europe day 10 18.md": {
+      "modifiedTime": 1736778643265,
+      "sourceSize": 2264,
+      "exportedPath": "10th-graade/ap-euro/ap-eupo/chapter-15/absolutism-and-constitutionalism-in-western-europe-day-10-18.html",
+      "dependencies": []
+    },
+    "10th graade/AP EURO/AP eupo/chapter 15/day 10 21 What kings start to do with power.md": {
+      "modifiedTime": 1736778643265,
+      "sourceSize": 752,
+      "exportedPath": "10th-graade/ap-euro/ap-eupo/chapter-15/day-10-21-what-kings-start-to-do-with-power.html",
+      "dependencies": []
+    },
+    "10th graade/AP EURO/AP eupo/chapter 15/day 10 22.md": {
+      "modifiedTime": 1736778643265,
+      "sourceSize": 1795,
+      "exportedPath": "10th-graade/ap-euro/ap-eupo/chapter-15/day-10-22.html",
+      "dependencies": []
+    },
+    "10th graade/AP EURO/AP eupo/chapter 15/day 10 23.md": {
+      "modifiedTime": 1736778643265,
+      "sourceSize": 0,
+      "exportedPath": "10th-graade/ap-euro/ap-eupo/chapter-15/day-10-23.html",
+      "dependencies": []
+    },
+    "10th graade/AP EURO/AP eupo/chapter 15/day 10 24.md": {
+      "modifiedTime": 1736778643265,
+      "sourceSize": 2217,
+      "exportedPath": "10th-graade/ap-euro/ap-eupo/chapter-15/day-10-24.html",
+      "dependencies": []
+    },
+    "10th graade/AP EURO/AP eupo/chapter 15/day 10 25.md": {
+      "modifiedTime": 1736778643265,
+      "sourceSize": 270,
+      "exportedPath": "10th-graade/ap-euro/ap-eupo/chapter-15/day-10-25.html",
+      "dependencies": []
+    },
+    "10th graade/AP EURO/AP eupo/chapter 15/day 10 31 24.md": {
+      "modifiedTime": 1736778643265,
+      "sourceSize": 411,
+      "exportedPath": "10th-graade/ap-euro/ap-eupo/chapter-15/day-10-31-24.html",
+      "dependencies": []
+    },
+    "10th graade/AP EURO/AP eupo/chapter 15/peace of westphalia 10 30.md": {
+      "modifiedTime": 1736778643265,
+      "sourceSize": 23,
+      "exportedPath": "10th-graade/ap-euro/ap-eupo/chapter-15/peace-of-westphalia-10-30.html",
+      "dependencies": []
+    },
+    "10th graade/AP EURO/AP eupo/Chapter 16/day 11 18.md": {
+      "modifiedTime": 1736778643265,
+      "sourceSize": 108,
+      "exportedPath": "10th-graade/ap-euro/ap-eupo/chapter-16/day-11-18.html",
+      "dependencies": []
+    },
+    "10th graade/AP EURO/AP eupo/Chapter 16/day 11 19.md": {
+      "modifiedTime": 1736778643265,
+      "sourceSize": 1169,
+      "exportedPath": "10th-graade/ap-euro/ap-eupo/chapter-16/day-11-19.html",
+      "dependencies": []
+    },
+    "10th graade/AP EURO/AP eupo/Chapter 16/day 11 20.md": {
+      "modifiedTime": 1736778643265,
+      "sourceSize": 2621,
+      "exportedPath": "10th-graade/ap-euro/ap-eupo/chapter-16/day-11-20.html",
+      "dependencies": []
+    },
+    "10th graade/AP EURO/AP eupo/Chapter 16/day 11 25.md": {
+      "modifiedTime": 1736778643265,
+      "sourceSize": 0,
+      "exportedPath": "10th-graade/ap-euro/ap-eupo/chapter-16/day-11-25.html",
+      "dependencies": []
+    },
+    "10th graade/AP EURO/AP eupo/Chapter 16/day 12 2.md": {
+      "modifiedTime": 1736778643265,
+      "sourceSize": 35,
+      "exportedPath": "10th-graade/ap-euro/ap-eupo/chapter-16/day-12-2.html",
+      "dependencies": []
+    },
+    "10th graade/AP EURO/AP eupo/Chapter 16/day 12 4.md": {
+      "modifiedTime": 1736778643265,
+      "sourceSize": 3766,
+      "exportedPath": "10th-graade/ap-euro/ap-eupo/chapter-16/day-12-4.html",
+      "dependencies": []
+    },
+    "10th graade/AP EURO/AP eupo/Chapter 16/day 12 5.md": {
+      "modifiedTime": 1736778643265,
+      "sourceSize": 2277,
+      "exportedPath": "10th-graade/ap-euro/ap-eupo/chapter-16/day-12-5.html",
       "dependencies": []
     },
     "10th graade/AP EURO/AP eupo/Chapter 17/Link it up/Blood Sports.md": {
-      "modifiedTime": 1734444873429,
+      "modifiedTime": 1736778643265,
       "sourceSize": 374,
       "exportedPath": "10th-graade/ap-euro/ap-eupo/chapter-17/link-it-up/blood-sports.html",
       "dependencies": []
     },
     "10th graade/AP EURO/AP eupo/Chapter 17/Link it up/Community Controls.md": {
-      "modifiedTime": 1734444873429,
+      "modifiedTime": 1736778643265,
       "sourceSize": 601,
       "exportedPath": "10th-graade/ap-euro/ap-eupo/chapter-17/link-it-up/community-controls.html",
       "dependencies": []
     },
     "10th graade/AP EURO/AP eupo/Chapter 17/Link it up/Consumer Society.md": {
-      "modifiedTime": 1734444873429,
+      "modifiedTime": 1736778643265,
       "sourceSize": 591,
       "exportedPath": "10th-graade/ap-euro/ap-eupo/chapter-17/link-it-up/consumer-society.html",
       "dependencies": []
     },
+    "10th graade/AP EURO/AP eupo/Chapter 17/Link it up/Cottage Industry.md": {
+      "modifiedTime": 1736778643265,
+      "sourceSize": 153,
+      "exportedPath": "10th-graade/ap-euro/ap-eupo/chapter-17/link-it-up/cottage-industry.html",
+      "dependencies": []
+    },
+    "10th graade/AP EURO/AP eupo/Chapter 17/Link it up/Crop Rotation.md": {
+      "modifiedTime": 1736778643265,
+      "sourceSize": 219,
+      "exportedPath": "10th-graade/ap-euro/ap-eupo/chapter-17/link-it-up/crop-rotation.html",
+      "dependencies": []
+    },
     "10th graade/AP EURO/AP eupo/Chapter 17/Link it up/Edward Jenner.md": {
-      "modifiedTime": 1734444873429,
+      "modifiedTime": 1736778643265,
       "sourceSize": 554,
       "exportedPath": "10th-graade/ap-euro/ap-eupo/chapter-17/link-it-up/edward-jenner.html",
       "dependencies": []
     },
+    "10th graade/AP EURO/AP eupo/Chapter 17/Link it up/ENCLOSURE MOVEMENT.md": {
+      "modifiedTime": 1736778643265,
+      "sourceSize": 431,
+      "exportedPath": "10th-graade/ap-euro/ap-eupo/chapter-17/link-it-up/enclosure-movement.html",
+      "dependencies": []
+    },
     "10th graade/AP EURO/AP eupo/Chapter 17/Link it up/Illegitimacy Explosion.md": {
-      "modifiedTime": 1734444873429,
+      "modifiedTime": 1736778643265,
       "sourceSize": 555,
       "exportedPath": "10th-graade/ap-euro/ap-eupo/chapter-17/link-it-up/illegitimacy-explosion.html",
       "dependencies": []
     },
     "10th graade/AP EURO/AP eupo/Chapter 17/Link it up/Infanticide.md": {
-      "modifiedTime": 1734444873429,
+      "modifiedTime": 1736778643265,
       "sourceSize": 477,
       "exportedPath": "10th-graade/ap-euro/ap-eupo/chapter-17/link-it-up/infanticide.html",
       "dependencies": []
     },
     "10th graade/AP EURO/AP eupo/Chapter 17/Link it up/Just Price.md": {
-      "modifiedTime": 1734444873429,
+      "modifiedTime": 1736778643265,
       "sourceSize": 520,
       "exportedPath": "10th-graade/ap-euro/ap-eupo/chapter-17/link-it-up/just-price.html",
       "dependencies": []
     },
     "10th graade/AP EURO/AP eupo/Chapter 17/Link it up/Methodists.md": {
-      "modifiedTime": 1734444873429,
+      "modifiedTime": 1736778643265,
       "sourceSize": 597,
       "exportedPath": "10th-graade/ap-euro/ap-eupo/chapter-17/link-it-up/methodists.html",
       "dependencies": []
     },
+    "10th graade/AP EURO/AP eupo/Chapter 17/Link it up/Open field system.md": {
+      "modifiedTime": 1736778643265,
+      "sourceSize": 1020,
+      "exportedPath": "10th-graade/ap-euro/ap-eupo/chapter-17/link-it-up/open-field-system.html",
+      "dependencies": []
+    },
     "10th graade/AP EURO/AP eupo/Chapter 17/Link it up/Spare the rod and spoil the child.md": {
-      "modifiedTime": 1734444873429,
+      "modifiedTime": 1736778643265,
       "sourceSize": 487,
       "exportedPath": "10th-graade/ap-euro/ap-eupo/chapter-17/link-it-up/spare-the-rod-and-spoil-the-child.html",
+      "dependencies": []
+    },
+    "10th graade/AP EURO/AP eupo/Chapter 17/Textnotes/day 12 9.md": {
+      "modifiedTime": 1736778643265,
+      "sourceSize": 1786,
+      "exportedPath": "10th-graade/ap-euro/ap-eupo/chapter-17/textnotes/day-12-9.html",
+      "dependencies": []
+    },
+    "10th graade/AP EURO/AP eupo/Chapter 17/Textnotes/day 12 10.md": {
+      "modifiedTime": 1736778643265,
+      "sourceSize": 3199,
+      "exportedPath": "10th-graade/ap-euro/ap-eupo/chapter-17/textnotes/day-12-10.html",
+      "dependencies": []
+    },
+    "10th graade/AP EURO/AP eupo/Chapter 17/Textnotes/day 12 11.md": {
+      "modifiedTime": 1736778643265,
+      "sourceSize": 2325,
+      "exportedPath": "10th-graade/ap-euro/ap-eupo/chapter-17/textnotes/day-12-11.html",
+      "dependencies": []
+    },
+    "10th graade/AP EURO/AP eupo/Chapter 17/Textnotes/day 12 12.md": {
+      "modifiedTime": 1736778643265,
+      "sourceSize": 4708,
+      "exportedPath": "10th-graade/ap-euro/ap-eupo/chapter-17/textnotes/day-12-12.html",
+      "dependencies": []
+    },
+    "10th graade/AP EURO/AP eupo/Chapter 17/Textnotes/day 12 12 Ap euro bit by bit number 23.md": {
+      "modifiedTime": 1736778643265,
+      "sourceSize": 1793,
+      "exportedPath": "10th-graade/ap-euro/ap-eupo/chapter-17/textnotes/day-12-12-ap-euro-bit-by-bit-number-23.html",
+      "dependencies": []
+    },
+    "10th graade/AP EURO/AP eupo/Chapter 17/Textnotes/day 12 12 crash course number 8.md": {
+      "modifiedTime": 1736778643265,
+      "sourceSize": 1609,
+      "exportedPath": "10th-graade/ap-euro/ap-eupo/chapter-17/textnotes/day-12-12-crash-course-number-8.html",
+      "dependencies": []
+    },
+    "10th graade/AP EURO/AP eupo/Chapter 17/Textnotes/day 12 13.md": {
+      "modifiedTime": 1736778643265,
+      "sourceSize": 625,
+      "exportedPath": "10th-graade/ap-euro/ap-eupo/chapter-17/textnotes/day-12-13.html",
+      "dependencies": []
+    },
+    "10th graade/AP EURO/AP eupo/Chapter 17/Textnotes/Day 12 16.md": {
+      "modifiedTime": 1736778643265,
+      "sourceSize": 876,
+      "exportedPath": "10th-graade/ap-euro/ap-eupo/chapter-17/textnotes/day-12-16.html",
+      "dependencies": []
+    },
+    "10th graade/AP EURO/AP eupo/Chapter 17/Main text notes.md": {
+      "modifiedTime": 1736778643265,
+      "sourceSize": 13532,
+      "exportedPath": "10th-graade/ap-euro/ap-eupo/chapter-17/main-text-notes.html",
+      "dependencies": []
+    },
+    "10th graade/AP EURO/AP eupo/chapter 19/day 1 2.md": {
+      "modifiedTime": 1736778643265,
+      "sourceSize": 4872,
+      "exportedPath": "10th-graade/ap-euro/ap-eupo/chapter-19/day-1-2.html",
+      "dependencies": []
+    },
+    "10th graade/AP EURO/AP eupo/chapter 19/day 1 3.md": {
+      "modifiedTime": 1736778643265,
+      "sourceSize": 5655,
+      "exportedPath": "10th-graade/ap-euro/ap-eupo/chapter-19/day-1-3.html",
+      "dependencies": []
+    },
+    "10th graade/AP EURO/AP eupo/chapter 19/day 1 6.md": {
+      "modifiedTime": 1736778643265,
+      "sourceSize": 6737,
+      "exportedPath": "10th-graade/ap-euro/ap-eupo/chapter-19/day-1-6.html",
+      "dependencies": []
+    },
+    "10th graade/AP EURO/AP eupo/chapter 19/day 1 7.md": {
+      "modifiedTime": 1736778643265,
+      "sourceSize": 4356,
+      "exportedPath": "10th-graade/ap-euro/ap-eupo/chapter-19/day-1-7.html",
+      "dependencies": []
+    },
+    "10th graade/AP EURO/AP eupo/chapter 19/day 1 8.md": {
+      "modifiedTime": 1736778643265,
+      "sourceSize": 4022,
+      "exportedPath": "10th-graade/ap-euro/ap-eupo/chapter-19/day-1-8.html",
+      "dependencies": []
+    },
+    "10th graade/AP EURO/AP eupo/chapter 19/day 1 9.md": {
+      "modifiedTime": 1736778643265,
+      "sourceSize": 64608,
+      "exportedPath": "10th-graade/ap-euro/ap-eupo/chapter-19/day-1-9.html",
+      "dependencies": []
+    },
+    "10th graade/AP EURO/AP eupo/chapter 19/day 12 18.md": {
+      "modifiedTime": 1736778643265,
+      "sourceSize": 4154,
+      "exportedPath": "10th-graade/ap-euro/ap-eupo/chapter-19/day-12-18.html",
+      "dependencies": []
+    },
+    "10th graade/AP EURO/AP eupo/chapter 19/day 12 19.md": {
+      "modifiedTime": 1736778643265,
+      "sourceSize": 1534,
+      "exportedPath": "10th-graade/ap-euro/ap-eupo/chapter-19/day-12-19.html",
+      "dependencies": []
+    },
+    "10th graade/AP EURO/AP eupo/chapter 19/Main notes For submission Chapter 19th.md": {
+      "modifiedTime": 1736778643265,
+      "sourceSize": 13251,
+      "exportedPath": "10th-graade/ap-euro/ap-eupo/chapter-19/main-notes-for-submission-chapter-19th.html",
+      "dependencies": []
+    },
+    "10th graade/AP EURO/AP eupo/Vocab/Absenteeism.md": {
+      "modifiedTime": 1736778643265,
+      "sourceSize": 37,
+      "exportedPath": "10th-graade/ap-euro/ap-eupo/vocab/absenteeism.html",
+      "dependencies": []
+    },
+    "10th graade/AP EURO/AP eupo/Vocab/Feudalism.md": {
+      "modifiedTime": 1736778643265,
+      "sourceSize": 210,
+      "exportedPath": "10th-graade/ap-euro/ap-eupo/vocab/feudalism.html",
+      "dependencies": []
+    },
+    "10th graade/AP EURO/AP eupo/Vocab/Moral Corruption.md": {
+      "modifiedTime": 1736778643265,
+      "sourceSize": 137,
+      "exportedPath": "10th-graade/ap-euro/ap-eupo/vocab/moral-corruption.html",
+      "dependencies": []
+    },
+    "10th graade/AP EURO/AP eupo/Vocab/Nepotism.md": {
+      "modifiedTime": 1736778643265,
+      "sourceSize": 78,
+      "exportedPath": "10th-graade/ap-euro/ap-eupo/vocab/nepotism.html",
+      "dependencies": []
+    },
+    "10th graade/AP EURO/AP eupo/Vocab/Pluralism.md": {
+      "modifiedTime": 1736778643265,
+      "sourceSize": 46,
+      "exportedPath": "10th-graade/ap-euro/ap-eupo/vocab/pluralism.html",
+      "dependencies": []
+    },
+    "10th graade/AP EURO/AP eupo/Vocab/Simony.md": {
+      "modifiedTime": 1736778643265,
+      "sourceSize": 49,
+      "exportedPath": "10th-graade/ap-euro/ap-eupo/vocab/simony.html",
+      "dependencies": []
+    },
+    "10th graade/AP EURO/AP eupo/home.md": {
+      "modifiedTime": 1736778643265,
+      "sourceSize": 65,
+      "exportedPath": "10th-graade/ap-euro/ap-eupo/home.html",
+      "dependencies": []
+    },
+    "10th graade/AP EURO/home.md": {
+      "modifiedTime": 1736778643265,
+      "sourceSize": 65,
+      "exportedPath": "10th-graade/ap-euro/home.html",
+      "dependencies": []
+    },
+    "10th graade/AP EURO/Printing money paper.md": {
+      "modifiedTime": 1736778643265,
+      "sourceSize": 1697,
+      "exportedPath": "10th-graade/ap-euro/printing-money-paper.html",
+      "dependencies": []
+    },
+    "10th graade/Codeing/Zigzag/How it works.md": {
+      "modifiedTime": 1736778643265,
+      "sourceSize": 2109,
+      "exportedPath": "10th-graade/codeing/zigzag/how-it-works.html",
+      "dependencies": []
+    },
+    "10th graade/Deabete/practice round/Copy of Copy of V6 NEG Better template 1.canvas": {
+      "modifiedTime": 1736778643265,
+      "sourceSize": 9910,
+      "exportedPath": "10th-graade/deabete/practice-round/copy-of-copy-of-v6-neg-better-template-1.html",
+      "dependencies": []
+    },
+    "10th graade/Deabete/practice round/Copy of Copy of V6 NEG Better template 1 1.canvas": {
+      "modifiedTime": 1736778643265,
+      "sourceSize": 10274,
+      "exportedPath": "10th-graade/deabete/practice-round/copy-of-copy-of-v6-neg-better-template-1-1.html",
+      "dependencies": []
+    },
+    "10th graade/Deabete/practice round/Copy of Copy of V6 NEG Better template 1 1 1.canvas": {
+      "modifiedTime": 1736778643265,
+      "sourceSize": 9580,
+      "exportedPath": "10th-graade/deabete/practice-round/copy-of-copy-of-v6-neg-better-template-1-1-1.html",
+      "dependencies": []
+    },
+    "10th graade/Deabete/practice round/Copy of Copy of V6 NEG Better template 1 1 1 1.canvas": {
+      "modifiedTime": 1736778643265,
+      "sourceSize": 11889,
+      "exportedPath": "10th-graade/deabete/practice-round/copy-of-copy-of-v6-neg-better-template-1-1-1-1.html",
+      "dependencies": []
+    },
+    "10th graade/Deabete/practice round/V7 NEG Better template 1 1 1 1.canvas": {
+      "modifiedTime": 1736778643265,
+      "sourceSize": 10355,
+      "exportedPath": "10th-graade/deabete/practice-round/v7-neg-better-template-1-1-1-1.html",
+      "dependencies": []
+    },
+    "10th graade/Deabete/Neg.md": {
+      "modifiedTime": 1736778643265,
+      "sourceSize": 6092,
+      "exportedPath": "10th-graade/deabete/neg.html",
+      "dependencies": []
+    },
+    "10th graade/Deabete/Reading Briefs.md": {
+      "modifiedTime": 1736778643265,
+      "sourceSize": 459,
+      "exportedPath": "10th-graade/deabete/reading-briefs.html",
+      "dependencies": []
+    },
+    "10th graade/Deabete/Trickle up over trickle down when taxed.md": {
+      "modifiedTime": 1736778643265,
+      "sourceSize": 750,
+      "exportedPath": "10th-graade/deabete/trickle-up-over-trickle-down-when-taxed.html",
+      "dependencies": []
+    },
+    "10th graade/Deabete/Untitled.md": {
+      "modifiedTime": 1736778643265,
+      "sourceSize": 105,
+      "exportedPath": "10th-graade/deabete/untitled.html",
+      "dependencies": []
+    },
+    "10th graade/Deabete/Untitled 1.md": {
+      "modifiedTime": 1736778643265,
+      "sourceSize": 675,
+      "exportedPath": "10th-graade/deabete/untitled-1.html",
+      "dependencies": []
+    },
+    "10th graade/English/Essays/A Peek into Creon’s Cursed State of Mind.md": {
+      "modifiedTime": 1736778643265,
+      "sourceSize": 1776,
+      "exportedPath": "10th-graade/english/essays/a-peek-into-creon’s-cursed-state-of-mind.html",
+      "dependencies": []
+    },
+    "10th graade/English/enlgish animal farm.md": {
+      "modifiedTime": 1736778643265,
+      "sourceSize": 322,
+      "exportedPath": "10th-graade/english/enlgish-animal-farm.html",
+      "dependencies": []
+    },
+    "10th graade/English/research.md": {
+      "modifiedTime": 1736778643265,
+      "sourceSize": 0,
+      "exportedPath": "10th-graade/english/research.html",
+      "dependencies": []
+    },
+    "10th graade/English/Writing boot camp stuffs.md": {
+      "modifiedTime": 1736778643265,
+      "sourceSize": 15,
+      "exportedPath": "10th-graade/english/writing-boot-camp-stuffs.html",
+      "dependencies": []
+    },
+    "10th graade/german/Bell work january 6th.md": {
+      "modifiedTime": 1736778643265,
+      "sourceSize": 99,
+      "exportedPath": "10th-graade/german/bell-work-january-6th.html",
+      "dependencies": []
+    },
+    "10th graade/german/cothing theme gimkit.md": {
+      "modifiedTime": 1736778643265,
+      "sourceSize": 2787,
+      "exportedPath": "10th-graade/german/cothing-theme-gimkit.html",
+      "dependencies": []
+    },
+    "10th graade/german/GErman book thing.md": {
+      "modifiedTime": 1736778643265,
+      "sourceSize": 5065,
+      "exportedPath": "10th-graade/german/german-book-thing.html",
+      "dependencies": []
+    },
+    "10th graade/Science/day 10 15  24 five facts about the movie.md": {
+      "modifiedTime": 1736778643265,
+      "sourceSize": 654,
+      "exportedPath": "10th-graade/science/day-10-15-24-five-facts-about-the-movie.html",
+      "dependencies": []
+    },
+    "10th graade/Science/fashcards for chemical nomenclature.md": {
+      "modifiedTime": 1736778643265,
+      "sourceSize": 893,
+      "exportedPath": "10th-graade/science/fashcards-for-chemical-nomenclature.html",
+      "dependencies": []
+    },
+    "10th graade/Science/Science.md": {
+      "modifiedTime": 1736778643265,
+      "sourceSize": 683,
+      "exportedPath": "10th-graade/science/science.html",
+      "dependencies": []
+    },
+    "10th graade/Words/New lexicon.md": {
+      "modifiedTime": 1736778643265,
+      "sourceSize": 11,
+      "exportedPath": "10th-graade/words/new-lexicon.html",
+      "dependencies": []
+    },
+    "10th graade/Words/randoms.md": {
+      "modifiedTime": 1736778643265,
+      "sourceSize": 1407,
+      "exportedPath": "10th-graade/words/randoms.html",
+      "dependencies": []
+    },
+    "10th graade/Copy of Copy of V6 NEG Better template 1 1.canvas": {
+      "modifiedTime": 1736778643265,
+      "sourceSize": 7909,
+      "exportedPath": "10th-graade/copy-of-copy-of-v6-neg-better-template-1-1.html",
+      "dependencies": []
+    },
+    "10th graade/home.md": {
+      "modifiedTime": 1736778643265,
+      "sourceSize": 65,
+      "exportedPath": "10th-graade/home.html",
+      "dependencies": []
+    },
+    "10th graade/things stuff.md": {
+      "modifiedTime": 1736778643265,
+      "sourceSize": 2997,
+      "exportedPath": "10th-graade/things-stuff.html",
+      "dependencies": []
+    },
+    "10th graade/V7 NEG Better template 1 1 1.canvas": {
+      "modifiedTime": 1736778643265,
+      "sourceSize": 8619,
+      "exportedPath": "10th-graade/v7-neg-better-template-1-1-1.html",
+      "dependencies": []
+    },
+    "lib/scripts/graph-wasm.wasm": {
+      "modifiedTime": 1736778643265,
+      "sourceSize": 23377,
+      "exportedPath": "lib/scripts/graph-wasm.wasm",
+      "dependencies": []
+    },
+    "lib/fonts/94f2f163d4b698242fef.otf": {
+      "modifiedTime": 1736778643265,
+      "sourceSize": 66800,
+      "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
+      "dependencies": []
+    },
+    "lib/fonts/72505e6a122c6acd5471.woff2": {
+      "modifiedTime": 1736778643265,
+      "sourceSize": 104232,
+      "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/2d5198822ab091ce4305.woff2": {
+      "modifiedTime": 1736778643265,
+      "sourceSize": 104332,
+      "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
+      "modifiedTime": 1736778643265,
+      "sourceSize": 98868,
+      "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cb10ffd7684cd9836a05.woff2": {
+      "modifiedTime": 1736778643265,
+      "sourceSize": 106876,
+      "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/b5f0f109bc88052d4000.woff2": {
+      "modifiedTime": 1736778643265,
+      "sourceSize": 105804,
+      "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cbe0ae49c52c920fd563.woff2": {
+      "modifiedTime": 1736778643265,
+      "sourceSize": 106108,
+      "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/535a6cf662596b3bd6a6.woff2": {
+      "modifiedTime": 1736778643265,
+      "sourceSize": 111708,
+      "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/70cc7ff27245e82ad414.ttf": {
+      "modifiedTime": 1736778643265,
+      "sourceSize": 192740,
+      "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/454577c22304619db035.ttf": {
+      "modifiedTime": 1736778643265,
+      "sourceSize": 161376,
+      "exportedPath": "lib/fonts/454577c22304619db035.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/52ac8f3034507f1d9e53.ttf": {
+      "modifiedTime": 1736778643265,
+      "sourceSize": 191568,
+      "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/05b618077343fbbd92b7.ttf": {
+      "modifiedTime": 1736778643265,
+      "sourceSize": 155288,
+      "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
+      "modifiedTime": 1736778643265,
+      "sourceSize": 7876,
+      "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+      "dependencies": []
+    },
+    "lib/media/874d8b8e340f75575caa.svg": {
+      "modifiedTime": 1736778643265,
+      "sourceSize": 317,
+      "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
+      "dependencies": []
+    },
+    "lib/html/file-tree.html": {
+      "modifiedTime": 1736778643265,
+      "sourceSize": 77014,
+      "exportedPath": "lib/html/file-tree.html",
+      "dependencies": []
+    },
+    "lib/scripts/webpage.js": {
+      "modifiedTime": 1736778643265,
+      "sourceSize": 47290,
+      "exportedPath": "lib/scripts/webpage.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-view.js": {
+      "modifiedTime": 1736778643265,
+      "sourceSize": 15519,
+      "exportedPath": "lib/scripts/graph-view.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-wasm.js": {
+      "modifiedTime": 1736778643265,
+      "sourceSize": 14021,
+      "exportedPath": "lib/scripts/graph-wasm.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-render-worker.js": {
+      "modifiedTime": 1736778643265,
+      "sourceSize": 5179,
+      "exportedPath": "lib/scripts/graph-render-worker.js",
+      "dependencies": []
+    },
+    "lib/scripts/tinycolor.js": {
+      "modifiedTime": 1736778643265,
+      "sourceSize": 29832,
+      "exportedPath": "lib/scripts/tinycolor.js",
+      "dependencies": []
+    },
+    "lib/scripts/pixi.js": {
+      "modifiedTime": 1736778643265,
+      "sourceSize": 449509,
+      "exportedPath": "lib/scripts/pixi.js",
+      "dependencies": []
+    },
+    "lib/scripts/minisearch.js": {
+      "modifiedTime": 1736778643265,
+      "sourceSize": 29422,
+      "exportedPath": "lib/scripts/minisearch.js",
+      "dependencies": []
+    },
+    "lib/media/favicon.png": {
+      "modifiedTime": 1736778643265,
+      "sourceSize": 1105,
+      "exportedPath": "lib/media/favicon.png",
+      "dependencies": []
+    },
+    "lib/scripts/graph-data.js": {
+      "modifiedTime": 1736778643265,
+      "sourceSize": 14932,
+      "exportedPath": "lib/scripts/graph-data.js",
+      "dependencies": []
+    },
+    "lib/styles/obsidian.css": {
+      "modifiedTime": 1736778643265,
+      "sourceSize": 131118,
+      "exportedPath": "lib/styles/obsidian.css",
+      "dependencies": []
+    },
+    "lib/styles/global-variable-styles.css": {
+      "modifiedTime": 1736778643265,
+      "sourceSize": 236,
+      "exportedPath": "lib/styles/global-variable-styles.css",
+      "dependencies": []
+    },
+    "lib/styles/main-styles.css": {
+      "modifiedTime": 1736778643265,
+      "sourceSize": 23130,
+      "exportedPath": "lib/styles/main-styles.css",
       "dependencies": []
     }
   }
